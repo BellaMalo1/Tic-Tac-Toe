@@ -1,0 +1,25 @@
+.hide {
+    display: none;
+
+}
+.play-area {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+    padding: 150px;
+  }
+  .square{
+    background-color: pink;
+    border: 1px solid rgba(63, 18, 187, 0.80);
+    padding: 50px;
+    font-size: 60px;
+    text-align: center;
+  }
+/* 
+ .O{
+    background-color: brown;
+ }
+
+ .X{
+    background-color: darkblue;
+ } */
